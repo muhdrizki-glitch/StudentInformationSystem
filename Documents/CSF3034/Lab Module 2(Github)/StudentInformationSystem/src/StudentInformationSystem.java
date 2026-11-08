@@ -13,7 +13,7 @@ public class StudentInformationSystem {
         System.out.println("Student ID: " + studentId);
         
         
-        double mark1 = 80.0;
+        double mark1 = 88.0;
         double mark2 = 90.0;
         
         
